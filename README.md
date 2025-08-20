@@ -192,7 +192,7 @@ Overall: 78.6% | Grade: B+ | Result: PASS
 - ✅ Student access restrictions
 - ✅ Data persistence across sessions
 
-## 🎯 Future Enhancements
+## 🎯 Future Enhancements (You Can add)
 
 - [ ] **GUI Implementation** using Qt or Windows Forms
 - [ ] **Database Integration** (MySQL/SQLite)
@@ -218,8 +218,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: @vimlesh-22 , @vimlesh-2
+- Email: 1vimlesh.only@gmail.com
 
 ## 🙏 Acknowledgments
 
