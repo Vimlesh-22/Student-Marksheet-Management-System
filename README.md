@@ -217,7 +217,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
+**Contact**
 - GitHub: @vimlesh-22 , @vimlesh-2
 - Email: 1vimlesh.only@gmail.com
 
